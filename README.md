@@ -1,6 +1,6 @@
 # React + Vite
 
-project link : https://suryakartheek.github.io/luminabook/
+project link : https://suryakartheek.github.io/LuminaBooks-Pro/
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

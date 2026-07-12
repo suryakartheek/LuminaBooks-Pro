@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/luminabook/", // This must match your GitHub repository name
+  base: "/LuminaBooks-Pro/", // This must match your GitHub repository name
 })
